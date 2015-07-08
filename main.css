@@ -1,11 +1,19 @@
 body {
-  background-color: #2A2B40!important;
+  background-color: #60667F!important;
 }
 
 #heading {
   color: white;
+  font-size: 4em;
 }
 
 img {
+  margin-top: 10px;
   max-height: 300px;
+}
+
+.container {
+  padding: 50px;
+  max-width: 800px;
+  background-color: #2A2B40;
 }
